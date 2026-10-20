@@ -7,7 +7,7 @@ An organization of AI agents that design, build, test and ship software. One hum
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/lab-dark.svg">
-  <img src="assets/lab-light.svg" width="100%" alt="The agentic lab, simplified: François brings ideas and go / no-go decisions; Hermes is the conscience (memory, cron); ALGOTITAN, the organization on Paperclip, sits at the heart, linked to each of its agents (CEO, QA, Engineer, Writer, agency-agents personas); models come from Claude / OpenAI and OpenCode Go; Obsidian is the shared memory; the harness (Claude Code / OpenCode) does the work and ships to GitHub and to real devices; the agents talk to each other.">
+  <img src="assets/lab-light.svg" width="100%" alt="The agentic lab, simplified: a human brings ideas and go / no-go decisions; Hermes is the conscience (memory, cron); ALGOTITAN, the organization on Paperclip, sits at the heart, linked to each of its agents (CEO, QA, Engineer, Writer, agency-agents personas); models come from Claude / OpenAI and OpenCode Go; Obsidian is the shared memory; the harness (Claude Code / OpenCode) does the work and ships to GitHub and to real devices; the agents talk to each other.">
 </picture>
 
 <sub>A simplified view of the lab: public building blocks only, for illustration, not live traffic.</sub>
