@@ -30,6 +30,8 @@ CSS = """
 .labo-zone{fill:{carte};stroke:{trait};stroke-dasharray:4 5}
 .labo-zone-txt{font:400 11px M;fill:{pale}}
 .paquet{fill:{ambre}}
+.paquet.agent{fill:{texte};opacity:.75}
+.labo-lien.agents{stroke:{ambre};stroke-opacity:.3}
 .noeud circle{fill:{carte};stroke-width:2}
 .noeud .halo{stroke:none;opacity:.14}
 .noeud .nom{font:400 15px F;fill:{texte}}
@@ -64,7 +66,6 @@ def face(name, file, text):
 
 def main():
     s = tomllib.loads(STRINGS.read_text())["labo"]
-    s["cloudflare"] = "the storagebits site"  # « this site » on the website itself
     src = PARTIAL.read_text()
     body = src[src.index("<svg"):src.index("</svg>") + 6]
     body = re.sub(r"\{\{\s*s\.labo\.(\w+)\s*\}\}", lambda m: html.escape(s[m[1]]), body)
