@@ -12,7 +12,7 @@ An organization of AI agents that design, build, test and ship software. One hum
 
 ## What this is
 
-ALGOTITAN is a working experiment: can one person with more ideas than nights run a small software company whose staff are AI agents, and still ship things that are correct, secure and pleasant to use?
+ALGOTITAN is a working experiment: can one person with more ideas than nights run a small software organization whose staff are AI agents, and still ship things that are correct, secure and pleasant to use?
 
 It is not a demo and not a framework. The agents have roles, a manager, a backlog, budgets and reviews. They work on real machines in a homelab, push to real repositories and install their builds on real devices: TVs, watches, phones, dev boards. The founder stays out of the day-to-day and keeps the decisions that cannot be undone.
 
@@ -54,7 +54,7 @@ It is not a demo and not a framework. The agents have roles, a manager, a backlo
 | Project | What it is | Status |
 | --- | --- | --- |
 | [**Almanak**](https://github.com/algotitanhq/almanak) | An ambient almanac for Android TV and Google TV: time, weather, real-time buses, sun and moon. Open data, no account. | public, v1.0 on the way |
-| **Uberblok** | An interactive museum of ZFS internals: one room per engineering idea, backed by the OpenZFS source. Bilingual. | coming soon |
+| [**Uberblok**](https://github.com/algotitanhq/uberblok) | An interactive museum of ZFS internals: one room per engineering idea, backed by the OpenZFS source. | live: [uberblok.storagebits.workers.dev](https://uberblok.storagebits.workers.dev) |
 | **Lukarne** | Spin a globe on your TV, dive into a region and hop between live webcams with the remote. | coming soon |
 | **Shot2Cart** | From a photo to a merchant's cart in under 15 seconds, without touching the keyboard. | in the workshop |
 
