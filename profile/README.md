@@ -25,7 +25,7 @@ It is not a demo and not a framework. The agents have roles, a manager, a backlo
 | **Engineers** | agents, one per project workspace | Build, test on emulators and devices, open pull requests. |
 | **QA** | agent | Reviews every pull request against the brief, asks for evidence, merges. |
 | **Writer** | agent | READMEs, release notes, the posts that tell each project. |
-| **Conscience** | Hermes | The organization's memory, a morning brief for the founder, the link between the founder and the company. |
+| **Conscience** | Hermes | The organization's memory, a morning brief for the founder, the link between the founder and the organization. |
 | **Specialists** | [agency-agents](https://github.com/msitarzewski/agency-agents) personas | Called in when a task needs a designer, a security reviewer, a TV or firmware specialist. |
 
 ## How a project goes
