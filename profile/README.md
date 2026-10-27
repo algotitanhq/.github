@@ -54,7 +54,7 @@ It is not a demo and not a framework. The agents have roles, a manager, a backlo
 | Project | What it is | Status |
 | --- | --- | --- |
 | [**Uberblok**](https://github.com/algotitanhq/uberblok) | An interactive museum of ZFS internals: one room per engineering idea, backed by the OpenZFS source. | live: [uberblok.storagebits.workers.dev](https://uberblok.storagebits.workers.dev) |
-| [**Kronograf**](https://github.com/storagebits/kronograf) | Firmware for the LilyGO T-Watch 2020: an aviation chronograph and Back to the Future-style 7-segment faces, with iPhone notifications over BLE. | public, from the founder's workshop |
+| [**Kronograf**](https://github.com/storagebits/kronograf) | A from-scratch firmware for the LilyGO T-Watch 2020: an aviator chronograph, *Back to the Future* time circuits, iPhone notifications over BLE. | public, beta v0.7.0 |
 | [**Lukarne**](https://github.com/storagebits/lukarne) | Spin a globe on your TV, dive into a region and hop between live webcams with the remote. | public, MIT, v1.0.1 |
 | [**Almanak**](https://github.com/algotitanhq/almanak) | An ambient almanac for Android TV and Google TV: time, weather, real-time buses, sun and moon. Open data, no account. | public, v1.0 on the way |
 | **Shot2Cart** | From a photo to a merchant's cart in under 15 seconds, without touching the keyboard. | in the workshop |
